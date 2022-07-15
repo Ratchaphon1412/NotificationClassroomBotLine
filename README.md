@@ -5,7 +5,8 @@
 ## fist step
 
 - create python environments
-  for MacOS:
+
+for MacOS:
 
 ```shell
     python3 -m venv env
